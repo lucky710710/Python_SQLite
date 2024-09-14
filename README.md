@@ -1,2 +1,2 @@
 # Python_SQLite
-Managing a SQL database in Python using SQLite library.
+Utilizing the SQLite module to manage a SQL database in Python.
